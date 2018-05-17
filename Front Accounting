@@ -1,0 +1,24 @@
+================
+PURCHASE MODULE
+================
+
+PURCHASE - the action of buying something 
+
+PURCHASE ORDER ENTRY - is used to register all purchase orders in the system.
+
+PAYMENTS TO SUPPLIERS - Enter Supplier Payment Entry against a Supplier invoice. 
+
+CUSTOMER AND SALES REPORTS - It provides the detailed Reports for analyising the structure of the setup.
+
+OUTSTANDING PURCHASE ORDERS MAINTENANCE - here we have a list of purchase orders which are still panding ,not yet paid, resolved.
+
+GOOD RECEIVED NOTES - A GRN (Goods Received Note) is a record used to confirm all goods received in the Warehouse/Store. GRN can be generated with respect to a Purchase Order document or without any reference.
+
+DIRECT GRN - Direct GRN is generated to put the opening stock and to increase the stock quantity that is currently available in physical warehouse. Generally, it's a one time entry.	
+
+SUPPLIER INVOICE - Supplier Invoices are where all parts purchases congregate before being posted to payables. A single supplier invoice may contain parts purchased for immediate sale on a work order, parts received on a purchase order, parts received directly into inventory, supplies, and may even contain expense items.
+
+
+SUPPLIER CREDIT NOTES - A credit note is a letter sent by the supplier to the customer notifying the customer that he or she has been credited a certain amount due to an error in the original invoice or other reasons. A credit note is also known as a credit memo, which is short for "credit memorandum."
+
+DIRECT SUPPLIER - Procuring goods or services straight from the manufacturer or supplier, and by-passing all intermediaries such as distributors, wholesalers, and retailers.
