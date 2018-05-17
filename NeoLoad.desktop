@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=NeoLoad
+Exec=/bin/sh "/home/administrator/Neoload6.4/bin/NeoLoadGUI" 
+Icon=/home/administrator/Neoload6.4/.install4j/NeoLoadGUI.png
